@@ -1,1 +1,0 @@
-# Automated-Product-Defect-Detection
