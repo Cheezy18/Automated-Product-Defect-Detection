@@ -1,8 +1,5 @@
 # Automated Product Defect Detection
 
-## Selvaraghavan_213223243049
-****
-
 ## Objective
 Build a Computer Vision system to automatically detect product defects using binary image classification.
 
